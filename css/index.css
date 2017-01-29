@@ -86,7 +86,7 @@ p{
 	bottom: -600px;
     }
 }
-@media (max-width: 449px){
+@media (max-width: 760px){
 	.lg_12{
 		float: none;
 		width: 89.5%;
